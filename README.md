@@ -86,4 +86,4 @@ Manuales tecnicos para ingenieros civiles de campo en LT y subestaciones.
 Supervisor Senior Infraestructura Electrica
 CIP 136407 — UNI Lima Peru
 
-LinkedIn: https://www.linkedin.com/in/marco-espinoza-h
+LinkedIn: https://www.linkedin.com/in/marco-espinoza-civil
