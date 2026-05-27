@@ -20,6 +20,10 @@ supervisor senior aplica en cada fase de una obra de infraestructura eléctrica.
 ---
 
 ## Ciclo de vida de la obra
+
+    EXPEDIENTE → CAMPO → CONTROL → CIERRE → DOSSIER
+       /tdr       /ssoma    /ncr      /evm     /informe
+
 ---
 
 ## Skills por dominio
@@ -35,7 +39,7 @@ supervisor senior aplica en cada fase de una obra de infraestructura eléctrica.
 
 ### Control de Costos y EVM
 - `control-valor-ganado` — EV, PV, AC, CPI, SPI, EAC, ETC, VAC, TCPI
-- `conelsur-salud-proyecto` — matriz CPI×SPI, sala de guerra, plan de choque
+- `conelsur-salud-proyecto` — matriz CPI x SPI, sala de guerra, plan de choque
 - `presupuesto-tdr-energia` — WBS, APU, benchmarking SEACE/MEM
 
 ### Ingenieria Estructural y Geotecnia
@@ -82,4 +86,4 @@ Manuales tecnicos para ingenieros civiles de campo en LT y subestaciones.
 Supervisor Senior Infraestructura Electrica
 CIP 136407 — UNI Lima Peru
 
-LinkedIn: https://linkedin.com/in/[tu-perfil]<img width="1130" height="592" alt="image" src="https://github.com/user-attachments/assets/12ca6987-98e8-455f-a12c-fcc126acbef8" />
+LinkedIn: https://www.linkedin.com/in/marco-espinoza-h
